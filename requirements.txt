@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+matplotlib
+seaborn
+folium
+gradio
+kagglehub
